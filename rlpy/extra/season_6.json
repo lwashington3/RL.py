@@ -1,0 +1,4106 @@
+{
+  "Ranked Duel 1v1": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Ranked Doubles 2v2": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Ranked Standard 3v3": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Hoops": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Rumble": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Dropshot": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Snowday": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  },
+  "Tournament Matches": {
+    "Ranks": [
+      {
+        "Rank": "Supersonic Legend",
+        "Players": "2_398",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_341",
+            "upper_bound": "1_554"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion III",
+        "Players": "2_469",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_287",
+            "upper_bound": "1_298"
+          },
+          "Division II": {
+            "lower_bound": "1_299",
+            "upper_bound": "1_306"
+          },
+          "Division III": {
+            "lower_bound": "1_318",
+            "upper_bound": "1_334"
+          },
+          "Division IV": {
+            "lower_bound": "1_337",
+            "upper_bound": "1_354"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion II",
+        "Players": "3_722",
+        "Player_Percentage": "0.10",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_233",
+            "upper_bound": "1_238"
+          },
+          "Division II": {
+            "lower_bound": "1_241",
+            "upper_bound": "1_253"
+          },
+          "Division III": {
+            "lower_bound": "1_258",
+            "upper_bound": "1_274"
+          },
+          "Division IV": {
+            "lower_bound": "1_277",
+            "upper_bound": "1_293"
+          }
+        }
+      },
+      {
+        "Rank": "Grand Champion I",
+        "Players": "7_539",
+        "Player_Percentage": "0.21",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_175",
+            "upper_bound": "1_178"
+          },
+          "Division II": {
+            "lower_bound": "1_180",
+            "upper_bound": "1_196"
+          },
+          "Division III": {
+            "lower_bound": "1_198",
+            "upper_bound": "1_213"
+          },
+          "Division IV": {
+            "lower_bound": "1_217",
+            "upper_bound": "1_227"
+          }
+        }
+      },
+      {
+        "Rank": "Champion III",
+        "Players": "13_826",
+        "Player_Percentage": "0.38",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_107",
+            "upper_bound": "1_118"
+          },
+          "Division II": {
+            "lower_bound": "1_120",
+            "upper_bound": "1_137"
+          },
+          "Division III": {
+            "lower_bound": "1_138",
+            "upper_bound": "1_153"
+          },
+          "Division IV": {
+            "lower_bound": "1_157",
+            "upper_bound": "1_163"
+          }
+        }
+      },
+      {
+        "Rank": "Champion II",
+        "Players": "26_452",
+        "Player_Percentage": "0.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "1_055",
+            "upper_bound": "1_058"
+          },
+          "Division II": {
+            "lower_bound": "1_059",
+            "upper_bound": "1_077"
+          },
+          "Division III": {
+            "lower_bound": "1_078",
+            "upper_bound": "1_095"
+          },
+          "Division IV": {
+            "lower_bound": "1_097",
+            "upper_bound": "1_113"
+          }
+        }
+      },
+      {
+        "Rank": "Champion I",
+        "Players": "53_585",
+        "Player_Percentage": "1.49",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "995",
+            "upper_bound": "998"
+          },
+          "Division II": {
+            "lower_bound": "999",
+            "upper_bound": "1_017"
+          },
+          "Division III": {
+            "lower_bound": "1_018",
+            "upper_bound": "1_036"
+          },
+          "Division IV": {
+            "lower_bound": "1_037",
+            "upper_bound": "1_043"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond III",
+        "Players": "90_890",
+        "Player_Percentage": "2.53",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "935",
+            "upper_bound": "938"
+          },
+          "Division II": {
+            "lower_bound": "939",
+            "upper_bound": "957"
+          },
+          "Division III": {
+            "lower_bound": "958",
+            "upper_bound": "976"
+          },
+          "Division IV": {
+            "lower_bound": "977",
+            "upper_bound": "993"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond II",
+        "Players": "152_668",
+        "Player_Percentage": "4.25",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "875",
+            "upper_bound": "878"
+          },
+          "Division II": {
+            "lower_bound": "879",
+            "upper_bound": "897"
+          },
+          "Division III": {
+            "lower_bound": "898",
+            "upper_bound": "916"
+          },
+          "Division IV": {
+            "lower_bound": "917",
+            "upper_bound": "928"
+          }
+        }
+      },
+      {
+        "Rank": "Diamond I",
+        "Players": "247_297",
+        "Player_Percentage": "6.88",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "815",
+            "upper_bound": "818"
+          },
+          "Division II": {
+            "lower_bound": "819",
+            "upper_bound": "837"
+          },
+          "Division III": {
+            "lower_bound": "838",
+            "upper_bound": "856"
+          },
+          "Division IV": {
+            "lower_bound": "857",
+            "upper_bound": "866"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum III",
+        "Players": "349_227",
+        "Player_Percentage": "9.72",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "755",
+            "upper_bound": "758"
+          },
+          "Division II": {
+            "lower_bound": "759",
+            "upper_bound": "777"
+          },
+          "Division III": {
+            "lower_bound": "778",
+            "upper_bound": "796"
+          },
+          "Division IV": {
+            "lower_bound": "797",
+            "upper_bound": "808"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum II",
+        "Players": "439_758",
+        "Player_Percentage": "12.24",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "695",
+            "upper_bound": "698"
+          },
+          "Division II": {
+            "lower_bound": "699",
+            "upper_bound": "717"
+          },
+          "Division III": {
+            "lower_bound": "718",
+            "upper_bound": "736"
+          },
+          "Division IV": {
+            "lower_bound": "737",
+            "upper_bound": "753"
+          }
+        }
+      },
+      {
+        "Rank": "Platinum I",
+        "Players": "488_556",
+        "Player_Percentage": "13.59",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "635",
+            "upper_bound": "638"
+          },
+          "Division II": {
+            "lower_bound": "639",
+            "upper_bound": "657"
+          },
+          "Division III": {
+            "lower_bound": "658",
+            "upper_bound": "676"
+          },
+          "Division IV": {
+            "lower_bound": "677",
+            "upper_bound": "694"
+          }
+        }
+      },
+      {
+        "Rank": "Gold III",
+        "Players": "422_018",
+        "Player_Percentage": "11.74",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "575",
+            "upper_bound": "578"
+          },
+          "Division II": {
+            "lower_bound": "579",
+            "upper_bound": "597"
+          },
+          "Division III": {
+            "lower_bound": "598",
+            "upper_bound": "616"
+          },
+          "Division IV": {
+            "lower_bound": "617",
+            "upper_bound": "634"
+          }
+        }
+      },
+      {
+        "Rank": "Gold II",
+        "Players": "333_409",
+        "Player_Percentage": "9.28",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "515",
+            "upper_bound": "518"
+          },
+          "Division II": {
+            "lower_bound": "519",
+            "upper_bound": "537"
+          },
+          "Division III": {
+            "lower_bound": "538",
+            "upper_bound": "556"
+          },
+          "Division IV": {
+            "lower_bound": "557",
+            "upper_bound": "574"
+          }
+        }
+      },
+      {
+        "Rank": "Gold I",
+        "Players": "230_460",
+        "Player_Percentage": "6.41",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "455",
+            "upper_bound": "458"
+          },
+          "Division II": {
+            "lower_bound": "459",
+            "upper_bound": "477"
+          },
+          "Division III": {
+            "lower_bound": "478",
+            "upper_bound": "496"
+          },
+          "Division IV": {
+            "lower_bound": "497",
+            "upper_bound": "514"
+          }
+        }
+      },
+      {
+        "Rank": "Silver III",
+        "Players": "130_602",
+        "Player_Percentage": "3.63",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "395",
+            "upper_bound": "398"
+          },
+          "Division II": {
+            "lower_bound": "399",
+            "upper_bound": "417"
+          },
+          "Division III": {
+            "lower_bound": "418",
+            "upper_bound": "436"
+          },
+          "Division IV": {
+            "lower_bound": "437",
+            "upper_bound": "454"
+          }
+        }
+      },
+      {
+        "Rank": "Silver II",
+        "Players": "70_961",
+        "Player_Percentage": "1.97",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "335",
+            "upper_bound": "338"
+          },
+          "Division II": {
+            "lower_bound": "339",
+            "upper_bound": "357"
+          },
+          "Division III": {
+            "lower_bound": "358",
+            "upper_bound": "376"
+          },
+          "Division IV": {
+            "lower_bound": "377",
+            "upper_bound": "394"
+          }
+        }
+      },
+      {
+        "Rank": "Silver I",
+        "Players": "33_600",
+        "Player_Percentage": "0.93",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "275",
+            "upper_bound": "278"
+          },
+          "Division II": {
+            "lower_bound": "279",
+            "upper_bound": "297"
+          },
+          "Division III": {
+            "lower_bound": "298",
+            "upper_bound": "316"
+          },
+          "Division IV": {
+            "lower_bound": "317",
+            "upper_bound": "334"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze III",
+        "Players": "14_275",
+        "Player_Percentage": "0.40",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "211",
+            "upper_bound": "218"
+          },
+          "Division II": {
+            "lower_bound": "219",
+            "upper_bound": "237"
+          },
+          "Division III": {
+            "lower_bound": "238",
+            "upper_bound": "256"
+          },
+          "Division IV": {
+            "lower_bound": "257",
+            "upper_bound": "274"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze II",
+        "Players": "5_179",
+        "Player_Percentage": "0.14",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "155",
+            "upper_bound": "158"
+          },
+          "Division II": {
+            "lower_bound": "163",
+            "upper_bound": "177"
+          },
+          "Division III": {
+            "lower_bound": "178",
+            "upper_bound": "195"
+          },
+          "Division IV": {
+            "lower_bound": "197",
+            "upper_bound": "214"
+          }
+        }
+      },
+      {
+        "Rank": "Bronze I",
+        "Players": "2_344",
+        "Player_Percentage": "0.07",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "0",
+            "upper_bound": "114"
+          },
+          "Division II": {
+            "lower_bound": "116",
+            "upper_bound": "127"
+          },
+          "Division III": {
+            "lower_bound": "132",
+            "upper_bound": "140"
+          },
+          "Division IV": {
+            "lower_bound": "142",
+            "upper_bound": "154"
+          }
+        }
+      },
+      {
+        "Rank": "Unranked",
+        "Players": "472_977",
+        "Player_Percentage": "13.16",
+        "Divisions": {
+          "Division I": {
+            "lower_bound": "497",
+            "upper_bound": "800"
+          },
+          "Division II": {
+            "lower_bound": "120",
+            "upper_bound": "120"
+          }
+        }
+      }
+    ]
+  }
+}

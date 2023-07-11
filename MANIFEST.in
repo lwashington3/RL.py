@@ -1,0 +1,3 @@
+include rlpy/extra/*.json
+recursive-include rlpy async_api
+recursive-include rlpy sync_api
