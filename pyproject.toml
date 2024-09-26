@@ -1,6 +1,6 @@
 [project]
 name = "rlpy"
-version = "2.0.1"
+version = "2.0.2"
 description = "Rocket League Data Scraper"
 authors = [
     { name = "Len Washington III" }
@@ -17,10 +17,11 @@ classifiers = [
 ]
 requires-python = ">=3.11.9"
 dependencies = [
-    "beautifulsoup4",
+    "beautifulsoup4 >= 4.12.3",
+    "Brotli >= 1.1.0",
     "playwright >= 1.3.0",
-    "tabulate",
-    "pytz"
+    "tabulate >= 0.9.0",
+    "pytz >= 2024.2"
 ]
 
 [project.urls]

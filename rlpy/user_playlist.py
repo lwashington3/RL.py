@@ -106,22 +106,24 @@ class UserPlaylist(object):
 	def from_text(cls, playlist:str, rank:str, division:str, mmr:str | int, streak:str | int | None, matches_played: int | None):
 		from re import search, match
 		# region Parse Playlist object
-		playlist = {
+		playlist_dct = {
 			"Casual": "Un-Ranked",
-			"1v1( Solo)? Duel": ["Ranked Duel 1v1"],
-			"2v2 Doubles": ["Ranked Doubles 2v2"],
-			"3v3 Standard": ["Ranked Standard 3v3"],
-			"(3v3 )?Tournaments?": ["Tournament Matches"],
-			"2v2 Hoops": ["Hoops"],
-			"3v3 Rumble": ["Rumble"],
-			"3v3 Dropshot": ["Dropshot"],
-			"3v3 Snow Day": ["Snowday"]
-		}.get(playlist, playlist)
-		for name, playlists in Playlist.PLAYLISTS.items():
-			for _playlist in playlists:
-				if match(name, playlist):
-					playlist = _playlist
-					break
+			"1v1( Solo)? Duel": "Ranked Duel 1v1",
+			"2v2 Doubles": "Ranked Doubles 2v2",
+			"3v3 Standard": "Ranked Standard 3v3",
+			"(3v3 )?Tournaments?": "Tournament Matches",
+			"2v2 Hoops": "Hoops",
+			"3v3 Rumble": "Rumble",
+			"3v3 Dropshot": "Dropshot",
+			"3v3 Snow Day": "Snowday"
+		}#.get(playlist, playlist)
+
+		playlist = playlist_dct.get(list(filter(lambda key: match(key, playlist), playlist_dct.keys()))[0], playlist)
+
+		for name, _playlist in Playlist.PLAYLISTS.items():
+			if name == playlist:
+				playlist = _playlist
+				break
 		else:
 			raise PlaylistNotFoundError(f"Playlist name: {playlist} could not be found in the given playlists.", playlist_name=playlist)
 		# endregion
