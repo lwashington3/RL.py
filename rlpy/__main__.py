@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 from os import getenv
-from sys import argv
 from .sync_api import User
 from ._enum_classes import *
 
@@ -35,10 +34,10 @@ def create_argument_parser():
 	return parser
 
 
-def main(args=None):
+def main():
 	try:
 		parser = create_argument_parser()
-		arguments = parser.parse_args(args)
+		arguments = parser.parse_args()
 		if arguments.command == "user":
 			user = arguments.user
 			console = convert_str_to_console(arguments.console)
@@ -52,4 +51,4 @@ def main(args=None):
 
 
 if __name__ == "__main__":
-	main(argv[1:])
+	main()

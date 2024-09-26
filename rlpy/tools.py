@@ -1,7 +1,7 @@
 from pytz import timezone
 
 
-__ALL__ = ["get_timezone"]
+__all__ = ["get_timezone"]
 
 
 def get_timezone(abbreviation:str) -> timezone:

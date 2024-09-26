@@ -8,7 +8,7 @@ from playwright.sync_api import Locator, Page, expect, sync_playwright, TimeoutE
 from pytz import timezone
 
 
-__ALL__ = ["nace_starleague_login", "create_team", "team_next_match"]
+__all__ = ["nace_starleague_login", "create_team", "team_next_match"]
 
 
 def nace_starleague_login(page: Page, username: str, password: str):

@@ -1,4 +1,4 @@
-__ALL__ = ["PlayerNotFoundError", "ConsoleNotFoundError", "RankNotFoundError", "MMROutOfBoundError", "PlaylistNotFoundError", "UserScrapeError"]
+__all__ = ["PlayerNotFoundError", "ConsoleNotFoundError", "RankNotFoundError", "MMROutOfBoundError", "PlaylistNotFoundError", "UserScrapeError"]
 
 
 class PlayerNotFoundError(BaseException):

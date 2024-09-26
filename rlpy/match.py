@@ -6,7 +6,7 @@ from datetime import datetime
 from pytz import timezone
 
 
-__ALL__ = ["RLTeam", "Match", "StarLeague", "BaseUser"]
+__all__ = ["RLTeam", "Match", "StarLeague", "BaseUser"]
 
 
 class RLTeam(list[BaseUser]):

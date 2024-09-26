@@ -1,5 +1,5 @@
 from logging import getLogger
-from playwright.async_api import Page, Error as PlaywrightError
+from playwright.async_api import Page, Error as PlaywrightError, TimeoutError as PlaywrightTimeoutError
 from ..user import BaseUser, Console, UserScrapeError
 
 
@@ -37,6 +37,17 @@ class User(BaseUser):
 
 		while tries <= max_tries:
 			try:
+				while True:
+					try:# <input type="checkbox">
+						human = page.locator('input[type=checkbox]')
+						await human.wait_for(timeout=45_000)
+						await human.check()
+						await human.wait_for(state="detached")
+					except PlaywrightTimeoutError:
+						pass
+					finally:
+						break
+
 				compact = page.locator('button[title="Switch to Compact Version"]')
 				await compact.wait_for(state="attached")
 				logger.debug(f"Page loaded for {self.link}.",

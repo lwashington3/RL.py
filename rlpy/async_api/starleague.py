@@ -8,7 +8,7 @@ from playwright.async_api import Locator, Page, expect, async_playwright, Timeou
 from pytz import timezone
 
 
-__ALL__ = ["nace_starleague_login", "create_team", "team_next_match"]
+__all__ = ["nace_starleague_login", "create_team", "team_next_match"]
 
 
 async def nace_starleague_login(page:Page, username:str, password:str):

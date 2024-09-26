@@ -1,0 +1,39 @@
+[project]
+name = "rlpy"
+version = "2.0.1"
+description = "Rocket League Data Scraper"
+authors = [
+    { name = "Len Washington III" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+requires-python = ">=3.11.9"
+dependencies = [
+    "beautifulsoup4",
+    "playwright >= 1.3.0",
+    "tabulate",
+    "pytz"
+]
+
+[project.urls]
+Source = "https://github.com/lwashington3/RL.py"
+Issues = "https://github.com/lwashington3/RL.py/issues"
+
+[project.scripts]
+rlpy = "rlpy.__main__:main"
+
+[build-system]
+requires = ["setuptools>=61.3.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["rlpy"]
+include-package-data = true

@@ -39,14 +39,12 @@ class User(BaseUser):
 			try:
 				compact = page.locator('button[title="Switch to Compact Version"]')
 				compact.wait_for(state="attached")
-				logger.debug(f"Page loaded for {self.link}.",
-							 extra=self.log_extra)
+				logger.debug(f"Page loaded for {self.link}.", extra=self.log_extra)
 
 				if page.title() == "404 Not Found":
 					raise UserScrapeError(f"The requested URL was not found on this server.")
 
-				content = page.content()
-				soup = BeautifulSoup(content, "html.parser")
+				soup = BeautifulSoup(page.content(), "html.parser")
 
 				if close_page_on_finish:
 					page.close()

@@ -1,8 +1,10 @@
-from enum import Enum as IntEnum, Enum as StrEnum
 from ._exceptions import *
+from enum import Enum as IntEnum, Enum as StrEnum
+from re import match, I
+from warnings import warn
 
 
-__ALL__ = ["PlaylistNumber", "Console", "convert_str_to_console", "Division", "Rank", "Playlist", "PlayListNames",
+__all__ = ["PlaylistNumber", "Console", "convert_str_to_console", "Division", "Rank", "Playlist", "PlayListNames",
 			"UnrankedDivision", "Unranked", "UnrankedPlaylist"]
 
 
@@ -25,30 +27,34 @@ class Console(StrEnum):
 	PLAY_STATION = "PS4"
 	SWITCH = "switch"
 
+	@classmethod
+	def from_string(cls, string:str) -> "Console":
+		"""
+		Converts a string to the proper rlpy.Console value.
+
+		:param str string:
+		:return:
+		:rtype rlpy.Console:
+		:raises ConsoleNotFoundError: If the string is malformed or cannot be matched to a value.
+		"""
+		converted_string = string.upper().replace(" ", "_")
+
+		for console in cls:
+			if match(f"^{console.value}$", string, I) is not None or match(f"^{console.name}$", converted_string, I) is not None:
+				return console
+
+		if match("^PS[L4n]?$", string, I) is not None:
+			return cls.PLAY_STATION
+
+		if match("^epic$", string, I) is not None:
+			return cls.EPIC_GAMES
+
+		raise ConsoleNotFoundError(f"Cannot find console type: {string}")
+
 
 def convert_str_to_console(string:str) -> Console:
-	"""
-	Converts a string to the proper rlpy.Console value.
-
-	:param str string:
-	:return:
-	:raises ConsoleNotFoundError: If the string is malformed or cannot be matched to a value.
-	"""
-	from re import match, I
-	if string.islower():
-		for console in Console:
-			if console.value == string:
-				return console
-	converted_string = string.upper().replace(" ", "_")
-	for console in Console:
-		if console.name == converted_string:
-			return console
-	if match("^PS[L4n]?$", string, I):
-		return Console.PLAY_STATION
-	if match("^epic$", string, I):
-		return Console.EPIC_GAMES
-
-	raise ConsoleNotFoundError(f"Cannot find console type: {string}")
+	warn("convert_str_to_console is deprecated, use Console.from_string() instead.", DeprecationWarning, stacklevel=2)
+	return Console.from_string(string)
 
 
 class Division(object):

@@ -1,0 +1,17 @@
+name: rlpy
+
+services:
+    build-package:
+        build:
+            target: "build-package"
+        volumes:
+            - ./dist/:/usr/src/dist
+        command: ["cp", "-avru", "/usr/src/app/dist", "/usr/src"]
+
+    rlpy:
+        build:
+            target: "prod"
+        image: rlpy/base:latest
+        volumes:
+            - ./rlpy:/usr/local/lib/python3.12/site-packages/rlpy
+            - ./logs:/usr/src/app/logs
