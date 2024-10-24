@@ -1,6 +1,6 @@
 [project]
 name = "rlpy"
-version = "2.0.2"
+version = "2.0.3"
 description = "Rocket League Data Scraper"
 authors = [
     { name = "Len Washington III" }
@@ -36,5 +36,5 @@ requires = ["setuptools>=61.3.1"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = ["rlpy"]
+packages = ["rlpy", "rlpy.sync_api", "rlpy.async_api", "rlpy.extra"]
 include-package-data = true
