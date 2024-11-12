@@ -1,17 +1,17 @@
 from logging import getLogger
-from playwright.sync_api import Page, Error as PlaywrightError
+from playwright.sync_api import Page, Error as PlaywrightError, TimeoutError as PlaywrightTimeoutError
 from ..user import BaseUser, Console, UserScrapeError
 
 
 class User(BaseUser):
 	def get_data(self, page: Page = None, get_player_name=False, wait_for_update=True,
-									close_page_on_finish=False, use_request_api=False, **kwargs) -> "User":
+					   close_page_on_finish=False, use_request_api=False, **kwargs) -> "User":
 		super().get_data(page=page, get_player_name=get_player_name, wait_for_update=wait_for_update,
 						 close_page_on_finish=close_page_on_finish, use_request_api=use_request_api, **kwargs)
-		from time import sleep
 		from bs4 import BeautifulSoup
 		from datetime import datetime as dt, timedelta as td
 		from re import search
+		from time import sleep
 
 		logger = kwargs.get("logger", getLogger(__name__))
 		max_tries = kwargs.get("max_tries", 5)
@@ -23,28 +23,38 @@ class User(BaseUser):
 			from playwright.sync_api import sync_playwright
 
 			p = sync_playwright().start()
-			logger.debug("Opened playwright to get data.", extra=self.log_extra)
+			logger.debug(f"Opened playwright to get data for {self.username}.", extra=self.log_extra)
 			browser = p.firefox.launch(headless=kwargs.get("headless", True),
-									   slow_mo=kwargs.get("slow_mo", 85))
-			logger.debug("Opened chromium.", extra=self.log_extra)
+											 slow_mo=kwargs.get("slow_mo", 85))
+			logger.debug(f"Opened chromium for {self.username}.", extra=self.log_extra)
 			page = browser.new_page()
 			page.set_default_timeout(kwargs.get("timeout", 0))
-			logger.debug("Opened page.", extra=self.log_extra)
+			logger.debug(f"Opened page for {self.username}.", extra=self.log_extra)
 
+		logger.info(f"Requesting RLStats webpage for {self.player_name}: {self.link}.",
+					extra=self.log_extra)
 		page.goto(self.link)
-		logger.debug(f"Requesting RLStats webpage for {self.player_name}: {self.link}.",
-					 extra=self.log_extra)
 
 		while tries <= max_tries:
 			try:
+				try:# <input type="checkbox">
+					human = page.locator('input[type=checkbox]')
+					human.wait_for(timeout=kwargs.get("bot_timeout", 35_000))
+					human.check()
+					human.wait_for(state="detached")
+				except PlaywrightTimeoutError:
+					pass
+
 				compact = page.locator('button[title="Switch to Compact Version"]')
 				compact.wait_for(state="attached")
-				logger.debug(f"Page loaded for {self.link}.", extra=self.log_extra)
+
+				logger.info(f"Page loaded for {self.link}.", extra=self.log_extra)
 
 				if page.title() == "404 Not Found":
 					raise UserScrapeError(f"The requested URL was not found on this server.")
 
-				soup = BeautifulSoup(page.content(), "html.parser")
+				content = page.content()
+				soup = BeautifulSoup(content, "html.parser")
 
 				if close_page_on_finish:
 					page.close()

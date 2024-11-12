@@ -23,35 +23,32 @@ class User(BaseUser):
 			from playwright.async_api import async_playwright
 
 			p = await async_playwright().start()
-			logger.debug("Opened playwright to get data.", extra=self.log_extra)
+			logger.debug(f"Opened playwright to get data for {self.username}.", extra=self.log_extra)
 			browser = await p.firefox.launch(headless=kwargs.get("headless", True),
 									   slow_mo=kwargs.get("slow_mo", 85))
-			logger.debug("Opened chromium.", extra=self.log_extra)
+			logger.debug(f"Opened chromium for {self.username}.", extra=self.log_extra)
 			page = await browser.new_page()
 			page.set_default_timeout(kwargs.get("timeout", 0))
-			logger.debug("Opened page.", extra=self.log_extra)
+			logger.debug(f"Opened page for {self.username}.", extra=self.log_extra)
 
-		await page.goto(self.link)
-		logger.debug(f"Requesting RLStats webpage for {self.player_name}: {self.link}.",
+		logger.info(f"Requesting RLStats webpage for {self.player_name}: {self.link}.",
 					 extra=self.log_extra)
+		await page.goto(self.link)
 
 		while tries <= max_tries:
 			try:
-				while True:
-					try:# <input type="checkbox">
-						human = page.locator('input[type=checkbox]')
-						await human.wait_for(timeout=45_000)
-						await human.check()
-						await human.wait_for(state="detached")
-					except PlaywrightTimeoutError:
-						pass
-					finally:
-						break
+				try:# <input type="checkbox">
+					human = page.locator('input[type=checkbox]')
+					await human.wait_for(timeout=kwargs.get("bot_timeout", 35_000))
+					await human.check()
+					await human.wait_for(state="detached")
+				except PlaywrightTimeoutError:
+					pass
 
 				compact = page.locator('button[title="Switch to Compact Version"]')
 				await compact.wait_for(state="attached")
-				logger.debug(f"Page loaded for {self.link}.",
-							 extra=self.log_extra)
+
+				logger.info(f"Page loaded for {self.link}.", extra=self.log_extra)
 
 				if await page.title() == "404 Not Found":
 					raise UserScrapeError(f"The requested URL was not found on this server.")
@@ -78,8 +75,8 @@ class User(BaseUser):
 				tries += 1
 				if tries == max_tries:
 					raise e
-				sleep(delay)
-				page.reload()
+				await sleep(delay)
+				await page.reload()
 
 		if created_playwright:
 			if not page.is_closed():

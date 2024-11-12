@@ -1,6 +1,6 @@
 [project]
 name = "rlpy"
-version = "2.0.3"
+version = "2.0.4"
 description = "Rocket League Data Scraper"
 authors = [
     { name = "Len Washington III" }
@@ -30,6 +30,10 @@ Issues = "https://github.com/lwashington3/RL.py/issues"
 
 [project.scripts]
 rlpy = "rlpy.__main__:main"
+
+[project.optional-dependencies]
+color = ["numpy==2.1.2", "colors@git+https://github.com/lwashington3/colors", "num2words"]
+all = ["numpy==2.1.2", "colors@git+https://github.com/lwashington3/colors", "num2words"]
 
 [build-system]
 requires = ["setuptools>=61.3.1"]

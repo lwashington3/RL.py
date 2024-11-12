@@ -14,12 +14,12 @@ RUN pip install --upgrade build
 RUN python -m build
 RUN chown -R 1000:1000 dist/
 
-FROM python:3.12.5-slim AS base
+FROM python:3.12.5 AS base
 
 WORKDIR /usr/src/build
 
 COPY --from=build-package /usr/src/app/dist/rlpy*.whl ./
-RUN pip install rlpy*.whl
+RUN WHEEL_FILE=$(ls -aF | grep rlpy*.whl) && pip install "$WHEEL_FILE"[all]
 
 FROM python:3.12.5-slim AS prod
 ENV TZ="America/Chicago"

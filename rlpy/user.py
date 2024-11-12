@@ -71,7 +71,7 @@ class BaseUser(ABC):
 		from re import compile
 
 		logger = kwargs.get("logger", getLogger(__name__))
-		logger.info("Processing User data retrieved from web.", extra=self.log_extra)
+		logger.info(f"Processing User data retrieved from web for {self.username}.", extra=self.log_extra)
 		error_message = soup.select("div.error-message")
 		if len(error_message) != 0:
 			raise UserScrapeError(f"The website: {self.link} had an error and could not be loaded. Error message: \"{error_message}\".")
@@ -79,8 +79,8 @@ class BaseUser(ABC):
 		if get_player_name:
 			try:
 				match = search(r"\n*([\w -]+) Updated (\d+) minutes ago[Fancy|Compact] Version", soup.select_one("section#userinfo").text)
-			except AttributeError:
-				logger.exception("Could not find player name in website.", extra=self.log_extra)
+			except AttributeError as e:
+				logger.exception("Could not find player name in website.", extra=self.log_extra, exc_info=e)
 
 		# region Collect Lifetime Stats
 		lifetime_stat_conversion = {
@@ -104,8 +104,7 @@ class BaseUser(ABC):
 			setattr(self, lifetime_stat_conversion[name], value)
 
 		del lifetime_stats, lifetime_stat_conversion
-		logger.debug("Lifetime stats collected.",
-					 extra=self.log_extra)
+		logger.debug("Lifetime stats collected.", extra=self.log_extra)
 		# endregion
 
 		# region Collect Reward Level
